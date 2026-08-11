@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Flux Rush</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: 0 auto; color: #333; }
+        h1 { color: #111; }
+        footer { margin-top: 40px; font-size: 0.85em; color: #777; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Flux Rush</h1>
+    <p>Last updated: August 2026</p>
+
+    <p><strong>Flux Rush</strong> ("the Game") is a free mobile application developed as a standalone game. This service is provided at no cost and is intended for use as is.</p>
+
+    <h2>Information Collection and Use</h2>
+    <p>Flux Rush does <strong>NOT</strong> collect, store, share, or transmit any personal identification information or sensitive user data. The game operates locally on your device.</p>
+
+    <h2>Third-Party Services</h2>
+    <p>The app does not utilize third-party services, analytics, tracking SDKs, or advertising networks that collect information used to identify you.</p>
+
+    <h2>Children's Privacy</h2>
+    <p>Flux Rush does not collect personal information from anyone, including children under the age of 13.</p>
+
+    <h2>Changes to This Privacy Policy</h2>
+    <p>This Privacy Policy may be updated from time to time. Any changes will be posted directly on this page.</p>
+
+    <h2>Contact Us</h2>
+    <p>If you have any questions or suggestions regarding this Privacy Policy, feel free to contact us at support@fluxrush.com.</p>
+
+    <footer>
+        <p>&copy; 2026 Flux Rush. All rights reserved.</p>
+    </footer>
+</body>
+</html>
